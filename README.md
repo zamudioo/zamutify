@@ -1,4 +1,5 @@
 # Zamutify
+## If you clone this repo, you will have to change the path to fmpeg, To make it easier, download it from releases
 
 This command-line script allows you to download YouTube playlists using `yt-dlp` and save them as MP3 audio files on your computer. It can also update the metadata of the MP3 files using the MusicBrainz API to fetch information about the songs.
 
